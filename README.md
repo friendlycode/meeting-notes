@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/friendlycode/meeting-notes.png?label=ready&title=Ready)](https://waffle.io/friendlycode/meeting-notes)
 # Meeting Notes And Agendas
 All meetings are open to everyone. Meeting notes are provided for the following events.
 
