@@ -3,7 +3,7 @@
 All meetings are open to everyone. Meeting notes are provided for the following events.
 
 - [Hack Night](https://github.com/friendlycode/meeting-notes/tree/master/notes)
-- [Leadership](https://github.com/friendlycode/meeting-notes/tree/master/leadership)
+- [Leadership](https://github.com/friendlycode/meeting-notes/tree/master/leadership) (suspended: Friendly Code no longer has a leadership team that meets)
 
 Action items from meetings are done through issues and can be [tracked easily via Waffle.](https://waffle.io/friendlycode/meeting-notes)
 
