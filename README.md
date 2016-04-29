@@ -1,4 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/friendlycode/meeting-notes.png?label=ready&title=Ready)](https://waffle.io/friendlycode/meeting-notes)
+[![Slack Status](https://slackin-friendlycode.herokuapp.com/badge.svg)](https://slackin-friendlycode.herokuapp.com)
+
 # Meeting Notes And Agendas
 All meetings are open to everyone. Meeting notes are provided for the following events.
 
